@@ -18,17 +18,18 @@
       "developerName": "UnknownShadow2000",
       "subtitle": "Free multiplayer sandbox block game",
       "localizedDescription": "A sandbox block game inspired by other such sandbox block games, ClassiCube brings you back to the days of 2009 where one block game ruled them all.",
+      "iconURL": "https://raw.githubusercontent.com/ClassiCube/ClassiCube/refs/heads/master/misc/CCicon.png",
       "tintColor": "#977DAB",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://cdn.classicube.net/client/latest/ClassiCube.ipa",
-          "size": 700000,
           "version": "Stable",
-          "buildVersion": null,
           "date": "2026-02-08T03:29:00-05:00",
           "localizedDescription": null,
+          "downloadURL": "https://cdn.classicube.net/client/latest/ClassiCube.ipa",
+          "size": 700000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
