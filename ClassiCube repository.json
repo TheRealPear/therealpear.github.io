@@ -1,10 +1,9 @@
 {
   "name": "ClassiCube repository",
   "subtitle": "Unofficial testing source",
-  "description": "",
-  "iconURL": "https://www.classicube.net/static/cc-logo.svg",
+  "iconURL": "https://avatars.githubusercontent.com/u/51250960",
   "website": "https://www.classicube.net/",
-  "patreonURL": "https://patreon.com/ClassiCube",
+  "patreonURL": "https://patreon.com/classicube",
   "tintColor": "#977DAB",
   "featuredApps": [
     "com.classicube.client.ios"
@@ -37,8 +36,7 @@
         "privacy": {
           "NSPhotoLibraryAddUsageDescription": "Saving screenshot"
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
